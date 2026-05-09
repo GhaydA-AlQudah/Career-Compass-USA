@@ -13,8 +13,23 @@ Power BI Desktop : Report, Model, Power Query
 steps 
 EDA
 Cleaning: MVs, Feature Selection , Empty Rows
+
+
 Descriptive - Power Query and Dashboard (Analytics - Batch)
+
+
 Diagnostic - Why
+
+
 Prescriptivs - Actionable Insight
+
+
+## 👤 Author
+
+**By GhaydA' Al-Qudah**
+
+**Computer Engineer | AI & Analytics Engineering Enthusiast**
+
+---
 
 
