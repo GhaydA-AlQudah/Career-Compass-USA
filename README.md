@@ -46,20 +46,11 @@ steps
 | `job_schedule_type` | `job_fact` | String | Harmonized work schedules (Full-time, Contract, etc.). |
 | `skill_id` | `skills_dim_table` | Integer | Unique identifier for technical skills. |
 | `skills` | `skills_dim_table` | String | Specific technical skill name (e.g., Python, SQL, Azure). |
+| `type` | `skills_dim_table` |String | Categorization of the skill (e.g., Programming, Cloud, Databases). |
 | `name` | `company_dim_table` | String | The name of the hiring organization. |
-
-### 🏢 Company Dimension Table
-This lookup table is a core component of the **Snowflake Schema**. It isolates organizational metadata to maintain data integrity and reduce redundancy within the fact table.
-
-| Column Name | Data Type | Description |
-| :--- | :--- | :--- |
-| `company_id` | Integer | Unique identifier for each hiring organization (Primary Key). |
-| `name` | String | The official registered name of the company. |
-
-**Technical Specifications:**
-* **Normalization Level:** 2NF/3NF compliant by separating entity attributes from transaction data.
-* **Cardinality:** One-to-Many (1:*) relationship with the `job_fact` table.
-
+| `company_id` | `company_dim_table` |Integer | Unique identifier for each hiring organization (Primary Key). |
+| `job_id` | `skill_job_dim_table` | Integer | Foreign Key linking jobs to their required skills. |
+| `skill_id` | `skill_job_dim_table` | Integer | Foreign Key linking skills to specific job postings. |
 
 ### 🛠️ Skills Dimension Table
 This table stores technical competencies and categorization metadata. It is linked to the fact table through a bridge table to manage many-to-many relationships efficiently.
