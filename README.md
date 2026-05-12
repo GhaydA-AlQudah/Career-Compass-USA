@@ -71,15 +71,17 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 ## 4. Data Cleaning: 
-MVs
+#### Empty rows and Errors Removed.
 
-, Feature Selection 
+#### Feature Selection : Unrelevant Columns removed
+#### Feature Extraction: salay rate
 
-, Empty Rows, 
 
-Transformation 
-
-📍 Data Scoping & Geographical Filtering
+#### Transformation : 1. Numerical Values Mapped into meaningful values
+####                  2. cities mapped into states
+####                  3. schedule type
+#### Filtering Data Scoping & Geographical Filtering
+#### Outliers
 
 ## 5. Dashboard
 
