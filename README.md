@@ -54,6 +54,10 @@ Transformation
 📍 Data Scoping & Geographical Filtering
 
 ## 4. Dashboard
+
+#### each chart
+
+
 #### Descriptive - Power Query and Dashboard (Analytics - Batch)
 
 
