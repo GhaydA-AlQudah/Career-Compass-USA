@@ -55,6 +55,9 @@ Transformation
 
 ## 4. Dashboard
 
+<img width="1266" height="742" alt="image" src="https://github.com/user-attachments/assets/162a7a5e-1ef3-4468-b200-2df56731e265" />
+
+
 #### each chart
 
 
