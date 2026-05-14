@@ -128,5 +128,3 @@ and using the slicers:
 **Computer Engineer | AI & Data Analytics Enthusiast**
 
 ---
-
-
