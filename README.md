@@ -91,6 +91,8 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 <img width="1266" height="742" alt="image" src="https://github.com/user-attachments/assets/162a7a5e-1ef3-4468-b200-2df56731e265" />
 
+<img width="1381" height="686" alt="image" src="https://github.com/user-attachments/assets/5cadb0f0-f7e7-44ec-b3ca-4cf52f16f28d" />
+
 
 #### each chart
 
