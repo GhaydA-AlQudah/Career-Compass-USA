@@ -105,7 +105,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 **By GhaydA' Al-Qudah**
 
-**Computer Engineer | AI & Analytics Enthusiast**
+**Computer Engineer | AI & Data Analytics Enthusiast**
 
 ---
 
