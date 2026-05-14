@@ -103,7 +103,18 @@ Granularity: The data is at the "Individual Job Posting" level.
 ### Ideas :
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
 
-#### 2. - [ ]
+and using the slicers:
+- [ ] you can filter on State:
+      - see the average annual salary in total or across  jobs
+      - the most required skills
+
+- [ ] You can filter on Jobs:
+      - the highest annusl salary
+      - the required skills
+      - priveleges (scheule type and health insurance)
+      - the most states contains that job
+- [ ] you can filter over both or between any mix to spot the cross you want to  discover.
+
 
 
 ### Recommendation
