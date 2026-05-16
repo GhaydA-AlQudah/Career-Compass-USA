@@ -23,7 +23,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 
 
-I’ve built more than just a report; this is a **Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
+I’ve built more than just a report; this is a **Interactive Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
 
 1. See the Full Spectrum: Compare salaries, skills, and benefits across the top tech hubs in the US.
 
@@ -73,12 +73,17 @@ Data Integrity: 100% validity across key columns (Annual_Salary, job_health_insu
 
 Granularity: The data is at the "Individual Job Posting" level.
 
----
+
 
 ## 3. Data Modeling - Snowflake Schema 
 
+### Snoflake Schema
 
 <img width="1542" height="512" alt="image" src="https://github.com/user-attachments/assets/4ae6d48d-5d96-4dad-bcad-48d39000a452" />
+
+This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy.
+
+### Single Cross-Filter Direction
 
 ```
 [company_dim_table] (1) ──┐
@@ -90,8 +95,8 @@ Granularity: The data is at the "Individual Job Posting" level.
                                         [skill_job_dim_table] (*) ── (*) ── [skills_dim_table] (1)
 ```
 
-"The data model follows a Snowflake Schema architecture. This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy."
 
+**Single Data Flow**: Snowflake filtering constraints are preserved by establishing 1:N (One-to-Many) relationships using **Bridge Table(skill_job_dim_table)**. The cross-filter direction propagates seamlessly from Dimension tables down to the Fact table, optimizing query execution times within Power BI.
 
 ## 4. Data Cleaning: 
 #### Empty rows and Errors Removed.
