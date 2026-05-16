@@ -15,7 +15,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 # **Our Solution: Your Interactive Strategic Career Navigator**
 
-**Imagine having a personal GPS for your tech career!**
+***Imagine having a personal GPS for your tech career!***
 
 
 <img width="1716" height="667" alt="image" src="https://github.com/user-attachments/assets/718557da-3b5d-4d82-993e-c02bfec2d905" />
