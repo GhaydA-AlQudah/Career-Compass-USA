@@ -18,12 +18,6 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 **Imagine having a personal GPS for your tech career!**
 
 
-<img width="1716" height="667" alt="image" src="https://github.com/user-attachments/assets/718557da-3b5d-4d82-993e-c02bfec2d905" />
-
-
-<img width="1717" height="667" alt="image" src="https://github.com/user-attachments/assets/da3ac32c-9b6f-4810-9016-da6f2e350813" />
-
-
 <img width="1710" height="660" alt="image" src="https://github.com/user-attachments/assets/49f3b417-7589-4d07-ad64-53b9a6e946e8" />
 
 
@@ -125,7 +119,10 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 ### Storyteling
 
-#### Example 1 : Filtering on California State
+#### 1 : Without Filtering
+<img width="1710" height="692" alt="image" src="https://github.com/user-attachments/assets/4705cd8e-e55a-401e-9a6b-99ab0afbacbc" />
+
+#### Example 2 : Filtering on California State
 
 <img width="1721" height="667" alt="image" src="https://github.com/user-attachments/assets/5e5613cd-2c75-447b-ba25-2b5cfa370919" />
 
