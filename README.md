@@ -118,8 +118,11 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 ## 5. Dashboard
 
+---
 
-### Example : Filtering on California State
+# Storyteling
+
+### Example 1 : Filtering on California State
 
 <img width="1721" height="667" alt="image" src="https://github.com/user-attachments/assets/5e5613cd-2c75-447b-ba25-2b5cfa370919" />
 
