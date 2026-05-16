@@ -120,9 +120,9 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 ---
 
-# Storyteling
+### Storyteling
 
-### Example 1 : Filtering on California State
+#### Example 1 : Filtering on California State
 
 <img width="1721" height="667" alt="image" src="https://github.com/user-attachments/assets/5e5613cd-2c75-447b-ba25-2b5cfa370919" />
 
@@ -130,10 +130,10 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 <img width="1712" height="712" alt="image" src="https://github.com/user-attachments/assets/21dc3a67-a875-4f9e-91d4-c23098ed3626" />
 
 
-### Ideas :
+#### Ideas :
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
 
-### and using the slicers:
+#### and using the slicers:
 - [ ] you can filter on State:
       - see the average annual salary in total or across  jobs
       - the most required skills
@@ -177,7 +177,7 @@ Cross-Dimensional Filtering:
 Combine multiple filters (e.g., Data Scientist in California at Large Tech Firms) to spot unique market "cross-sections" and tailor your career strategy to real-world data.
 
 
-# Recommendation
+### Recommendation
 ##### based on your /// but for me as example : i woudl say the highest salaries in california and the most reuired id data scientist which is one of my interisting jobs , and i need to learn these skills (...) and i will try my best to  be ready to applicate in the 3rd quarter to have a higher apportunity and match the most companies like (...)
 
 ---
