@@ -100,19 +100,20 @@ This was chosen to efficiently handle the Many-to-Many relationship between jobs
 
 ## 4. Data Cleaning: 
 
-#### Empty rows and Errors Removed.
+a. Empty rows and Errors Removed.
 
-#### Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
+b. Applied filters to scope the data specifically to US Tech Hubs, ensuring the analysis remains relevant to the targeted market.
 
-#### Feature Selection : Unrelevant Columns removed
+c. Feature Selection : Unrelevant Columns removed
 
-#### Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
+d. Feature Extraction: Annual Salary calculated from different columns to unify hourly, monthly, and varying compensation structures into a single standardized metric, enabling accurate *cross-functional* analysis.
 
-#### Transformation : 1. Transformed encoded numerical values into human-readable, meaningful labels.
-####                  2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
-####                  3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
+e. Transformation : 1. Transformed encoded numerical values into human-readable, meaningful labels.
+                    2. Geospatial Normalization: Mapped specific cities into their respective US States to enable high-level geographical grouping.
+                    3. Standardized various schedule_type entries into unified categories (e.g., Full-time, Contract, Internship).
 
-#### Outliers
+f. Outliers
+
 
 ## 5. Dashboard
 
