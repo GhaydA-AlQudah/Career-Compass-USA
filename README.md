@@ -118,7 +118,6 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 ## 5. Dashboard
 
----
 
 ### Storyteling
 
