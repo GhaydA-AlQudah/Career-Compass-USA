@@ -84,12 +84,12 @@ This was chosen to efficiently handle the Many-to-Many relationship between jobs
 ### Single Cross-Filter Direction
 
 ```
-[company_dim_table] (1)        ──┐
-                                 │
-                                 ▼
-                           [job_fact] (*) ── (1) ──┐
-                                                   │
-                                                   ▼
+[company_dim_table] (1)   ──┐
+                            │
+                            ▼
+                      [job_fact] (*) ── (1) ──┐
+                                              │
+                                              ▼
                                         [skill_job_dim_table] (*) ── (*) ── [skills_dim_table] (1)
 ```
 
