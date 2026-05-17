@@ -21,6 +21,8 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 <img width="1585" height="686" alt="image" src="https://github.com/user-attachments/assets/265a4438-46d5-4732-a649-e392efe23cd2" />
 
+<img width="1587" height="687" alt="image" src="https://github.com/user-attachments/assets/61358296-4d37-483c-bf54-d140cbb8cce4" />
+
 
 I’ve built more than just a report; this is a **Interactive Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
 
@@ -69,7 +71,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 
-## 3. Data Modeling - Snowflake Schema 
+## 3. Data Modeling 
 
 ### Star Schema
 
@@ -77,7 +79,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 <img width="1046" height="646" alt="image" src="https://github.com/user-attachments/assets/c8b58989-15f8-4685-a74c-5b4b5d4bbb09" />
 
-This was chosen to efficiently handle the Many-to-Many relationship between jobs and skills through a bridge table (skill_job_dim_table), ensuring a highly normalized structure that reduces data redundancy.
+Designed and optimized a high-performance Star Schema architectural model in Power BI, centralizing key market metrics within a core fact table connected directly to normalized dimensions (company_dim)."
 
 ### Single Cross-Filter Direction
 
