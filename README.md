@@ -127,35 +127,7 @@ This view provides **a high-level overview of the US tech job market**, allowing
 10. Mid-level analytical roles appear more accessible and widely available, while specialized AI-focused positions remain higher-paying but more competitive.
 
 
-### Example 2 : Filtering on Job Role
-
-Filter by specific job roles **to perform a deeper role-based market analysis and uncover targeted career insights**.
-
-<img width="1585" height="720" alt="image" src="https://github.com/user-attachments/assets/17cef522-1c0e-416c-9847-172c5a60973a" />
-
-
-1. The dashboard highlights a demand–compensation gap, where high-volume roles differ significantly from premium-paying positions.
-
-2. Data Analyst roles lead workforce demand, while Data Engineering roles capture the highest salary benchmarks across the market.
-
-3. Q3 shows a clear hiring spike, indicating a seasonal surge in talent acquisition activity.
-
-4. Remote hiring continues to influence workforce distribution, with location-independent opportunities gaining strong market presence.
-
-5. The market trend reflects growing investment in scalable data infrastructure and analytics capabilities.
-
-6. Full-time employment dominates the labor market, reinforcing organizations’ focus on workforce stability and retention.
-
-7. Top-paying states indicate highly competitive talent markets with stronger compensation strategies.
-
-8. The dashboard converts raw hiring data into actionable business intelligence for strategic workforce planning.
-
-9. Compensation levels do not always align with hiring volume, revealing a mismatch between specialization and market demand.
-
-10. The analysis demonstrates how organizations balance talent scalability, operational cost, and specialized skill acquisition.
-
-
-### Example 3 : Both Filters
+### Example 2 : Both Filters
 
 Apply multiple filters simultaneously **to uncover specific market cross-sections and generate more targeted insights**.
 Combining filters such as job role, state, or state enables deeper analysis of hiring demand, compensation patterns, workforce flexibility, and regional opportunities — helping users align career decisions with real market trends.
