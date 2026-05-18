@@ -128,7 +128,7 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 
 
-### 1 : Without Filtering
+### Example 1 : Without Filtering
 
 - [ ]  you can take a quick look to see what the most required Job title, which state contain the most tech jobs, which companies in each state, the privileges like health insurance, the flexibility of the schule type across jobs, states, companies, and the annual salary
 
@@ -149,25 +149,7 @@ The dashboard highlights a clear trend: companies prioritize scalable data and A
 Mid-level analytical roles appear more accessible and widely available, while specialized AI-focused positions remain higher-paying but more competitive.
 
 
-### Example 2 : Filtering on California State
-
-<img width="1588" height="706" alt="image" src="https://github.com/user-attachments/assets/26d94757-a366-4fb9-8e3f-d85a90b0dacb" />
-
-<img width="1587" height="709" alt="image" src="https://github.com/user-attachments/assets/4124111a-b7bf-41a9-83f6-de569ea3be5b" />
-
-- [ ] you can filter on State:
-      - see the average annual salary in total or across  jobs
-      - the most required skills
-2. Targeted Discovery via Dynamic Slicers
-By leveraging the interactive Snowflake Schema architecture, users can perform granular "Deep Dives" using multi-select slicers:
-
-Geographical Analysis (State Filter):
-
-Assess localized earning potential through Average Annual Salary benchmarks.
-
-Extract the Top-Tier Skillsets specifically demanded within a particular region.
-
-### Filtering on Job Role
+### Example 3 : Filtering on Job Role
 - [ ] You can filter on Jobs:
 Role-Specific Analysis (Job Title Filter):
 
@@ -193,7 +175,7 @@ Cross-Dimensional Filtering:
 “The analysis demonstrates how organizations balance talent scalability, operational cost, and specialized skill acquisition.”
 
 
-### 2 Filters
+### Example 4 : Both Filters
 
 - [ ] you can filter over both or between any mix to spot the cross you want to  discover.
 
