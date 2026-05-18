@@ -126,7 +126,11 @@ f. Outliers: Identified and handled statistical anomalies and extreme wage value
 
 ## 5. Dashboard and Storyteling
 
+
+
 ### 1 : Without Filtering
+
+<img width="1584" height="705" alt="image" src="https://github.com/user-attachments/assets/f5d6dfa8-db32-47af-ae69-d91b1c15e6b6" />
 
 <img width="1589" height="699" alt="image" src="https://github.com/user-attachments/assets/d3d46919-c772-4b75-94d7-9684bd4f167e" />
 
