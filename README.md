@@ -212,8 +212,8 @@ Combining filters such as job role, state, or state enables deeper analysis of h
 
 10. The selected filters uncover a more competitive and high-value segment of the analytics job market.
 
-
-### Recommendation
+---
+# Recommendation
 **Career decisions vary based on individual priorities and career goals**; however, these examples represent strategic insights derived from the dashboard analysis:
 
 1. Candidates prioritizing **compensation optimization and long-term career value** should consider Data Engineering roles in Washington, where the dashboard indicates a combination of premium salary benchmarks, stable full-time demand, and strong employer investment in benefits — signaling a mature and competitive talent market.
