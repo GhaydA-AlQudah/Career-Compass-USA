@@ -176,8 +176,6 @@ Cross-Dimensional Filtering:
 ![Uploading image.png…]()
 
 
-<img width="1716" height="666" alt="image" src="https://github.com/user-attachments/assets/3218048a-73c6-4acd-82e6-50efa2bcb009" />
-<img width="1716" height="679" alt="image" src="https://github.com/user-attachments/assets/7f38fa00-95bd-4db9-a52a-34c2ce129d1f" />
 
 - [ ] you can filter over both or between any mix to spot the cross you want to  discover.
 
