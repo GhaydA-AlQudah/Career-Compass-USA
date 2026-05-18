@@ -18,7 +18,7 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 **Imagine having a personal GPS for your tech career!**
 
 
-<img width="1582" height="685" alt="image" src="https://github.com/user-attachments/assets/d01f10c9-1c2b-4c7d-8228-a898d0627450" />
+<img width="1582" height="687" alt="image" src="https://github.com/user-attachments/assets/becdb76b-f2d8-4ddb-96ce-4f0fa1789855" />
 
 
 I’ve built more than just a report; this is a **Interactive Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
