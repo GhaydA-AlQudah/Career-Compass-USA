@@ -1,15 +1,12 @@
 # *CareerPulse-USA Interactive Dashboard*
-across dgo far diagnostic
+
 # Problem Statement
-Navigating the tech job market is overwhelming for IT professionals. When deciding on a career path (e.g., Data Science vs. Cloud Engineering), individuals often struggle to find a single, reliable source that compares more than just salaries. They face a "data gap" when trying to understand how different roles vary across key U.S. states in terms of:
+Choosing the right tech career path is becoming increasingly difficult.
+Different roles offer different salaries, hiring demand, benefits, and growth opportunities across U.S. states.
 
-Financial Reward: What is the actual market value of a role when comparing hourly contracts to annual salaries?
+For students, job seekers, and professionals, finding reliable and easy-to-understand market insights can be challenging. Most available information is scattered across multiple platforms and difficult to compare effectively.
 
-Job Stability: Which titles offer full-time security versus contract-based flexibility?
-
-Total Compensation: Which companies and states provide essential benefits like health insurance?
-
-Barriers to Entry: Where can skills and experience outweigh the need for a traditional university degree?
+As a result, many career decisions are made based on assumptions **instead of real market data**.
 
 ---
 
@@ -17,27 +14,46 @@ Barriers to Entry: Where can skills and experience outweigh the need for a tradi
 
 **Imagine having a personal GPS for your tech career!**
 
+That’s why I built this **Interactive Strategic A nalytics dashboard**: a simple way to explore the U.S. tech job market through data.
+
+
 
 <img width="1582" height="687" alt="image" src="https://github.com/user-attachments/assets/becdb76b-f2d8-4ddb-96ce-4f0fa1789855" />
 
+## *With this dashboard, users can:*
 
-I’ve built more than just a report; this is a **Interactive Strategic Dashboard** focused on a 360-degree comparison. Whether you are a Data Scientist, an Engineer, or just starting in IT, this tool allows you to:
+• Compare career paths
 
-1. See the Full Spectrum: Compare salaries, skills, and benefits across the top tech hubs in the US.
+Explore salaries, hiring demand, benefits, and work types across different tech roles.
 
-2. Make Smarter Moves: Use data-driven insights to decide your next career step based on facts, not guesses.
+• Analyze opportunities by state
 
-3. Simplicity for Everyone: While the backend is complex, the **UX/UI** is designed to be intuitive for **Non-Technical** users, making advanced analytics accessible to all.
+See which locations offer better compensation and stronger market demand.
+
+• Make data-driven career decisions
+
+Use real market insights instead of assumptions when planning the next career move.
+
+• Navigate easily
+
+The dashboard is designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
 
-🛠️ What’s under the hood?
-To make this "simple" experience possible, I handled the heavy engineering tasks:
+## *What’s Behind the Dashboard?*
 
-Data Engineering (Python & Pandas): I cleaned and transformed raw datasets to ensure high-quality, reliable information.
+While the experience is designed to feel simple, the project involved several data engineering and analytics steps behind the scenes:
 
-Advanced Modeling (OLAP & Snowflake Schema): I designed an efficient OLAP Batch Solution using a Snowflake Schema to handle complex relationships between jobs, companies, and skills.
+• Data Preparation (Python & Pandas)
 
-Visual Storytelling (Power BI): Using Power Query and **DAX**, I built a dynamic model that updates and responds to user needs instantly.
+Cleaned and transformed raw datasets to improve data quality and consistency.
+
+• Data Modeling (OLAP & Star Schema)
+
+Built a structured analytical model using a Star Schema design to support scalable and efficient analysis.
+
+• Business Intelligence (Power BI, Power Query & DAX)
+
+Created an interactive dashboard with **dynamic filtering** and responsive visual insights.
 
 
 ## 1. Metadata
@@ -62,7 +78,7 @@ Total Records: 17,788 cleaned rows (after filtering for major states and removin
 
 Time Scope: Data reflects job postings as of late 2023.
 
-Data Integrity: 100% validity across key columns (Annual_Salary, job_health_insurance) with no nulls in the final transformed set.
+Data Integrity: 100% validity across key columns with no nulls in the final transformed set.
 
 Granularity: The data is at the "Individual Job Posting" level.
 
