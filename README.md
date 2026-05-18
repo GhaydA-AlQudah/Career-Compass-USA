@@ -195,13 +195,22 @@ Cross-Dimensional Filtering:
 
 ### 2 Filters
 
-<img width="1581" height="704" alt="both_filters" src="https://github.com/user-attachments/assets/fe155709-84a8-451a-88cc-2063b22b132a" />
-
-
-
 - [ ] you can filter over both or between any mix to spot the cross you want to  discover.
 
 Combine multiple filters (e.g., Data Scientist in California at Large Tech Firms) to spot unique market "cross-sections" and tailor your career strategy to real-world data.
+
+<img width="1581" height="704" alt="both_filters" src="https://github.com/user-attachments/assets/fe155709-84a8-451a-88cc-2063b22b132a" />
+
+“The filtered view reveals a more specialized talent market with reduced hiring volume but higher compensation value.”
+“Data Engineering remains the premium-paying role, while Data Analyst positions continue to dominate workforce demand.”
+“Washington leads salary performance, whereas California drives the highest hiring activity, reflecting different regional market dynamics.”
+“The hiring trend shows a sharp Q3 spike, indicating concentrated recruitment cycles and accelerated talent acquisition.”
+“The dashboard highlights how niche technical skills increase compensation, even within a smaller hiring pool.”
+“Workforce demand is heavily concentrated in full-time opportunities, reinforcing long-term hiring strategies.”
+“The analysis demonstrates a clear trade-off between market demand and salary optimization.”
+“Filtered insights expose how organizations prioritize specialized data capabilities over workforce scale.”
+“The dashboard translates segmented hiring data into targeted labor market intelligence.”
+“The selected filters uncover a more competitive and high-value segment of the analytics job market.”
 
 
 ### Recommendation
