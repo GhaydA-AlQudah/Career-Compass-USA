@@ -1,5 +1,4 @@
 # **Career Compass USA**
-# Find the Right Career Path Based on Market Insights
 
 # Problem Statement
 Choosing the right tech career path is becoming increasingly difficult.
@@ -11,7 +10,7 @@ As a result, many career decisions are made **based on assumptions instead of re
 
 ---
 
-# **Our Solution: Your Interactive Strategic Career Navigator**
+# **Our Solution: To Find the Right Career Path Based on Market Insights**
 
 **Imagine having a personal GPS for your tech career!**
 
