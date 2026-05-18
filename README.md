@@ -62,6 +62,9 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 ### Star Schema
 
+<img width="1485" height="537" alt="image" src="https://github.com/user-attachments/assets/bce0bbd2-c9b5-47a5-ad73-cf92976811eb" />
+
+
 <img width="1046" height="646" alt="image" src="https://github.com/user-attachments/assets/c8b58989-15f8-4685-a74c-5b4b5d4bbb09" />
 
 
