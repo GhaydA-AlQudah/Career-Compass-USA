@@ -56,6 +56,16 @@ to uncover targeted labor market trends, salary patterns, and high-demand career
 | `job_id` | `skill_job_dim_table` | Integer | Foreign Key linking each job to its required technical skills (corresponds to `Jobs` in `job_fact`). |
 | `skill_id` | `skill_job_dim_table` | Integer | Foreign Key linking the job record to the specific skill details in `skills_dim_table`. |
 
+### Dataset Overview
+Total Records: 17,788 cleaned rows (after filtering for major states and removing outliers).
+
+Time Scope: Data reflects job postings as of late 2023.
+
+Data Integrity: 100% validity across key columns with no nulls in the final transformed set.
+
+Granularity: The data is at the "Individual Job Posting" level.
+
+
 ## 2. Data Cleaning: 
 
 a. Empty rows and Errors Removed.
@@ -77,19 +87,7 @@ e. Transformation:  **Power Query (M Language)** was used for data transformatio
 f. Outliers: Identified and handled statistical anomalies and extreme wage values to prevent distortion in descriptive metrics and average charts.
 
 
-
-## 3. EDA
-Total Records: 17,788 cleaned rows (after filtering for major states and removing outliers).
-
-Time Scope: Data reflects job postings as of late 2023.
-
-Data Integrity: 100% validity across key columns with no nulls in the final transformed set.
-
-Granularity: The data is at the "Individual Job Posting" level.
-
-
-
-## 4. Data Modeling 
+## 3. Data Modeling 
 
 ### Star Schema with a Bridge Table for Many-to-Many Relationships
 
@@ -114,7 +112,7 @@ Granularity: The data is at the "Individual Job Posting" level.
 ```
 
 
-## 5. Dashboard and Storyteling
+## 4. Dashboard and Storyteling
 
 
 
