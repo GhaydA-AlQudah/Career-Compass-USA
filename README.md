@@ -82,7 +82,7 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 - Transformed encoded and numerical categorical values into clear, human-readable labels for improved usability and reporting clarity.
 
 - Standardized multiple work schedule formats into unified categories such as Full-time, Contract, and Internship.
-
+---
 ## 3. Data Modeling 
 
 ### Star Schema with a Bridge Table for Many-to-Many Relationships
