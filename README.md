@@ -20,10 +20,6 @@ As a result, **many career decisions are made based on assumptions instead of re
 - Designed with a clean and intuitive **UX/UI** so even **non-technical** users can explore insights comfortably.
 
 
-
-<img width="1582" height="687" alt="image" src="https://github.com/user-attachments/assets/becdb76b-f2d8-4ddb-96ce-4f0fa1789855" />
-
-
 <img width="1702" height="736" alt="image" src="https://github.com/user-attachments/assets/eb6b8e26-1b4d-4a00-8201-f4813f3b547e" />
 
 <img width="1706" height="736" alt="image" src="https://github.com/user-attachments/assets/aab1beea-ffd9-4cff-981a-b041b7bf9b79" />
