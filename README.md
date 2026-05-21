@@ -2,7 +2,7 @@
 
 # Problem Statement
 
-Choosing the right tech career path is becoming increasingly difficult.
+Choosing the right tech career path is becoming increasingly difficult;
 
 1. Different roles offer different salaries, hiring demand, benefits, and growth opportunities across U.S. states.
 2. Most available information is **scattered across multiple platforms and difficult to compare effectively**.
