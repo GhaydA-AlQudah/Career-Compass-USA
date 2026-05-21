@@ -114,7 +114,6 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 ### Example
 
-<img width="1697" height="768" alt="image" src="https://github.com/user-attachments/assets/8678ceb4-b6f4-4ff8-9b99-27ee77f29e3c" />
 
 ---
 # Recommendation
