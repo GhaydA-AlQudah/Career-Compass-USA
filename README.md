@@ -73,16 +73,20 @@ Granularity: The data is at the "Individual Job Posting" level.
 
 
 
-### Single Cross-Filter Direction
+### Cross-Filter Direction
 
 ```
-[company_dim_table] (1)  ──┐
-                           │
-                           ▼
-                        [job_fact] (*) ── (1) ──┐
-                                                │
-                                                ▼
-                                        [skill_job_dim_table] (*) ── (*) ── [skills_dim_table] (1)                                      
+[company_dim_table] (1)
+                   │
+                   ▼ (Single Direction)
+               [job_fact] (*)
+                   │
+                   ▲
+                   ▼ (Both Directions)
+        [skill_job_dim_table] (*)
+                   ▲
+                   │ (Single Direction)
+        [skills_dim_table] (1)
 ```
 
 ## 4. Data Cleaning: 
