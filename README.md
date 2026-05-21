@@ -106,7 +106,7 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
                    │ (Single Direction)
         [skills_dim_table] (1)
 ```
-
+---
 
 ## 4. Dashboard and Storyteling
 
