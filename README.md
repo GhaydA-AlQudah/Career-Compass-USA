@@ -87,7 +87,6 @@ Applied data transformation and preprocessing using **Power Query (M Language)**
 
 ### Star Schema with a Bridge Table for Many-to-Many Relationships
 
-<img width="1485" height="537" alt="image" src="https://github.com/user-attachments/assets/bce0bbd2-c9b5-47a5-ad73-cf92976811eb" />
 
 <img width="1431" height="496" alt="image" src="https://github.com/user-attachments/assets/6f86e66e-67b2-43fb-aab9-5102db7afdd2" />
 
