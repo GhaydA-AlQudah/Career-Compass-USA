@@ -25,7 +25,7 @@ As a result, **many career decisions are made based on assumptions instead of re
 - That’s why I built this **Interactive Strategic Analytics Report**: a simple way to explore the U.S. tech job market through data.
 
 - Designed with a clean and intuitive **UX/UI** experience, enabling both technical and **non-technical stakeholders** to explore insights effectively.
-- 
+  
 - It spans **2 pages**, each serving a distinct analytical purpose — from broad market benchmarking to deep skill-level insights.
 
 - Both pages support interactive filtering by:
